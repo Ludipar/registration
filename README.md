@@ -23,4 +23,4 @@ Welcome to **Ludipar**! To have your project listed, follow these steps:
    - `THUMBNAIL`: A raw github image url for your project thumbnail.
 4. **Create a pull request** to submit your project for approval.
 
-Once your pull request is reviewed and approved, your project will be visible on [Ludipar](https://ludipar.pages.dev/). Happy coding!
+Once your pull request is reviewed and approved, you can initiate your project at [Ludipar Project Initiator](https://ludipar.pages.dev/init). After that it will be available on [Ludipar](https://ludipar.pages.dev/)
